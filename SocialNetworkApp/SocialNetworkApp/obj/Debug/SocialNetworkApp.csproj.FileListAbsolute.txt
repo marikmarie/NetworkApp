@@ -1,0 +1,7 @@
+D:\PegPay\SocialNetworkApp\SocialNetworkApp\bin\Debug\SocialNetworkApp.exe.config
+D:\PegPay\SocialNetworkApp\SocialNetworkApp\bin\Debug\SocialNetworkApp.exe
+D:\PegPay\SocialNetworkApp\SocialNetworkApp\bin\Debug\SocialNetworkApp.pdb
+D:\PegPay\SocialNetworkApp\SocialNetworkApp\obj\Debug\SocialNetworkApp.csproj.AssemblyReference.cache
+D:\PegPay\SocialNetworkApp\SocialNetworkApp\obj\Debug\SocialNetworkApp.csproj.CoreCompileInputs.cache
+D:\PegPay\SocialNetworkApp\SocialNetworkApp\obj\Debug\SocialNetworkApp.exe
+D:\PegPay\SocialNetworkApp\SocialNetworkApp\obj\Debug\SocialNetworkApp.pdb
